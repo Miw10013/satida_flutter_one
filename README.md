@@ -1,12 +1,3 @@
-# tuna_flutter_one Project
-
-This is UI screen for Welcome, Login and Signup
-
-Adding feeatures of swapping between these 3
-
-<img src="https://github.com/user-attachments/assets/8426e452-e447-4395-b615-8924a1d30008" width="200">
-
-<img src="https://github.com/user-attachments/assets/4663a8a4-fdb3-4b27-a6e2-374e5d12177a" width="200">
-
-<img src="https://github.com/user-attachments/assets/cdf1b3ef-7408-4aa7-b3f9-ea72e012ac08" width="200">
-"# satida_flutter_one-main" 
+![Screenshot 2025-05-17 141024](https://github.com/user-attachments/assets/361c1bb3-922b-45a0-8e3c-1f92096bddc4)
+![Screenshot 2025-05-17 141001](https://github.com/user-attachments/assets/000551a1-90a9-425e-86fd-05f2bbe5d41e)
+![Screenshot 2025-05-17 140841](https://github.com/user-attachments/assets/08d37a77-990e-4ca5-aeb3-0af9caa35b7e)
